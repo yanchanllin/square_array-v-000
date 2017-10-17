@@ -8,9 +8,9 @@ def square_array(array)
   result
 end
 # http://speakingjs.com/es5/ch15.html#_terminology_parameter_versus_argument
-# 
+#
 # square_array([2,5,7])
-# 
+#
 # map/collect
 # create an empty array
 # iterates through the parameter
