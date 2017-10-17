@@ -1,7 +1,6 @@
 def square_array(array)
   counter = 1
-array.each do |number|
+array.each do |count|**2
 counter += 1
-puts array.Square
  end
 end
