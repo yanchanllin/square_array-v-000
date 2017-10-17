@@ -3,6 +3,6 @@ def square_array(array)
   counter = 1
 array.each do |number|
 counter += 1
-numbers.Square
+numbers**2
  end
 end
